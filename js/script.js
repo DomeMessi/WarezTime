@@ -109,7 +109,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (isClone) pill.setAttribute('aria-hidden', 'true');
 
             const img = document.createElement('img');
-            img.src = `../assets/pill/icone/${game.id}.jpg`;   // ← prende l'immagine dalla cartella
+            img.src = `./assets/pill/icone/${game.id}.jpg`;   // ← prende l'immagine dalla cartella
             img.alt = isClone ? '' : `Game ${game.id}`;
             img.width = 44;
             img.height = 44;
@@ -138,16 +138,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     const gruppoImages = {
-      'CDX':      '../assets/Gruppi/CODEX.png',
-      'CPY':      '../assets/Gruppi/CPY.png',
-      'DenuvOwO': '../assets/Gruppi/DenuvOwO.png',
-      'FLT':      '../assets/Gruppi/Fairlight FLT.png',
-      'MKDEV':    '../assets/Gruppi/mkdev.png',
-      'RZR':      '../assets/Gruppi/Razor 1911.png',
-      'RLD':      '../assets/Gruppi/Reloaded RLD!.png',
+      'CDX':      './assets/Gruppi/CODEX.png',
+      'CPY':      './assets/Gruppi/CPY.png',
+      'DenuvOwO': './assets/Gruppi/DenuvOwO.png',
+      'FLT':      './assets/Gruppi/Fairlight FLT.png',
+      'MKDEV':    './assets/Gruppi/mkdev.png',
+      'RZR':      './assets/Gruppi/Razor 1911.png',
+      'RLD':      './assets/Gruppi/Reloaded RLD!.png',
     };
 
-    gruppoLogo.src = "../assets/Gruppi/CODEX.png";
+    gruppoLogo.src = "./assets/Gruppi/CODEX.png";
     gruppoLogo.alt = "CDX";
     gruppoLogo.style.opacity = '1';
 
