@@ -1137,7 +1137,6 @@ body {
   border-width: 0;
   border-top: none;
   border-right: none;
-  justify-content: space-between;
   transition: border 0.2s ease;
 }
 
@@ -1615,7 +1614,7 @@ body {
 
   .pnlGioco-titolo{
     margin-bottom: 20px;
-    font-size: 28px;
+    font-size: 18px;
     margin-right: 20px;
   }
 
@@ -1628,12 +1627,13 @@ body {
   .pnlGioco-pnl-D {
     top: auto;
     bottom: 0;
-    padding: 4% 8%;
-    font-size: 25px;
+    padding: 2% 4%;
+    font-size: 16px;
+    width: 120px;
   }
 
   .D-singola {
-    font-size: 40px;
+    font-size: 18px;
   }
 
   .pnlGruppo {
