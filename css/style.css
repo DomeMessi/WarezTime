@@ -1658,6 +1658,7 @@ body {
   .pnl-introduzione-metodi {
     overflow: hidden;
     margin-bottom: 50px;
+    height: auto;
   }
 
   .introduzione-testo {
