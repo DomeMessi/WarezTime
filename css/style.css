@@ -46,7 +46,7 @@
   font-family: fontBase, sans-serif ;
   color: var(--txt1);
   font-size: 16px;
-  line-height: 1.6;
+  line-height: 20px;
 }
 
 html {
@@ -928,6 +928,7 @@ body {
   font-size: 22px;
   font-weight: bold;
   color: var(--txt1);
+  padding-bottom: 10px;
   border-bottom: 4px solid var(--viol1);
   margin-right: 30%;
   text-overflow: ellipsis;
