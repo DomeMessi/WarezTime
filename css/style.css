@@ -107,7 +107,7 @@ body {
 }
 
 .titolo-sezione {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: bold;
   color: var(--txt1);
   align-content: center;
@@ -730,7 +730,8 @@ body {
   border-radius: var(--raggio-pill);
   padding: 10px 5px 10px 20px;
   gap: 0.5rem;
-  width: 100%;
+  width: 70vw;
+  min-width: 300px;
   max-width: 380px;
   margin-top: 0.5rem;
 }
@@ -1561,7 +1562,7 @@ body {
     left: 50%;
   }
 
-  .gruppo-voce:nth-child(6), .gruppo-voce:nth-child(7) {
+  .gruppo-voce:nth-child(4), .gruppo-voce:nth-child(5), .gruppo-voce:nth-child(6), .gruppo-voce:nth-child(7) {
     display: none;
   }
 
