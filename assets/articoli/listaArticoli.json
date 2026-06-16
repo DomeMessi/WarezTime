@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "date": "12/05/2026",
+    "title": "Subnautica 2 leakato pochi giorni prima del rilascio",
+    "image": "./assets/articoli/1.png",
+    "url": "./articolo1.html",
+    "badge": {
+      "text": "LEAKED",
+      "color": "leak"
+    }
+  },
+  {
+    "id": 2,
+    "date": "11/05/2026",
+    "title": "Forza Horizon 6 leakato, Microsoft gaming sotto pressione",
+    "image": "./assets/articoli/2.png",
+    "url": "./articolo2.html",
+    "badge": {
+      "text": "LEAKED",
+      "color": "leak"
+    }
+  },
+  {
+    "id": 3,
+    "date": "26/04/2026",
+    "title": "Denuvo cade, nessun gioco protetto rimasto invalicabile",
+    "image": "./assets/articoli/3.png",
+    "url": "./articolo3.html",
+    "badge": {
+      "text": "SPECIALE",
+      "color": "speciali"
+    }
+  },
+  {
+    "id": 4,
+    "date": "07/04/2026",
+    "title": "40 anni di Razor 1911, rilasciata Demo come tributo",
+    "image": "./assets/articoli/4.png",
+    "url": "#",
+    "badge": {
+      "text": "GRUPPO",
+      "color": "gruppo"
+    }
+  },
+  {
+    "id": 5,
+    "date": "20/03/2026",
+    "title": "Nasce DenuOwO, i nuovi maestri dell'Hypervisor?",
+    "image": "./assets/articoli/5.png",
+    "url": "#",
+    "badge": {
+      "text": "GRUPPO",
+      "color": "gruppo"
+    }
+  },
+  {
+    "id": 6,
+    "date": "05/03/2026",
+    "title": "Kirigiri annuncia aggiornamenti sul metodo Hypervisor",
+    "image": "./assets/articoli/6.png",
+    "url": "#",
+    "badge": {
+      "text": "GRUPPO",
+      "color": "gruppo"
+    }
+  },
+  {
+    "id": 7,
+    "date": "23/01/2026",
+    "title": "Wukong Bypassato, opera di 0xZeOn",
+    "image": "./assets/articoli/7.png",
+    "url": "#",
+    "badge": {
+      "text": "GIOCO",
+      "color": "gioco"
+    }
+  },
+  {
+    "id": 8,
+    "date": "14/12/2025",
+    "title": "MKDEV dimostra il metodo Hypervisor come ultimo intervento prima del ritiro",
+    "image": "./assets/articoli/8.png",
+    "url": "#",
+    "badge": {
+      "text": "GIOCO",
+      "color": "gioco"
+    }
+  },
+  {
+    "id": 9,
+    "date": "22/11/2025",
+    "title": "Altro colpo di Rune, rotte le protezioni speciali di Battlefield 6",
+    "image": "./assets/articoli/9.png",
+    "url": "#",
+    "badge": {
+      "text": "GIOCO",
+      "color": "gioco"
+    }
+  },
+  {
+    "id": 10,
+    "date": "20/11/2025",
+    "title": "Anadius, cracker di orign, abbandona la scena",
+    "image": "./assets/articoli/10.png",
+    "url": "#",
+    "badge": {
+      "text": "GRUPPO",
+      "color": "gruppo"
+    }
+  },
+  {
+    "id": 11,
+    "date": "18/10/2025",
+    "title": "Nuova crack old school dal misterioso Voices38",
+    "image": "./assets/articoli/11.png",
+    "url": "#",
+    "badge": {
+      "text": "GRUPPO",
+      "color": "gruppo"
+    }
+  },
+  {
+    "id": 12,
+    "date": "13/10/2025",
+    "title": "Rune rimuove Denuvo da un titolo, prima traguardo del gruppo",
+    "image": "./assets/articoli/12.png",
+    "url": "#",
+    "badge": {
+      "text": "GIOCO",
+      "color": "gioco"
+    }
+  },
+  {
+    "id": 13,
+    "date": "23/09/2025",
+    "title": "Dopo anni Denuvo cade nuovamente, opera di SKiDROW",
+    "image": "./assets/articoli/13.png",
+    "url": "#",
+    "badge": {
+      "text": "GIOCO",
+      "color": "gioco"
+    }
+  }
+]

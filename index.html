@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Warez Time</title>
+  <link rel="stylesheet" href="./css/style.css" />
+  <link rel="icon" type="image/x-icon" href="./assets/icone/logoSkull.png">
+</head>
+<body data-page="home">
+
+  <!-- BACKGROUND -->
+  <div class="container-griglia">
+    <img src="./assets/griglia.png" alt="" class="griglia"/>
+  </div>
+
+  <!-- NAVBAR -->
+  <header class="navbar-container">
+    <nav class="navbar">
+      <a href="./index.html" class="nav-marchio">
+        <img  class="nav-pittogramma" src="./assets/icone/logo.png"/>
+        <span>Warez Time</span>
+      </a>
+      <ul class="nav-parte-link">
+        <li><a href="./timeline.html" class="nav-link">
+          <img class="nav-icona" src="./assets/icone/ico1.png"/>
+          <span>Timeline</span>
+        </a>
+        </li>
+        <li><a href="./giochi.html" class="nav-link">
+          <img class="nav-icona" src="./assets/icone/ico2.png"/><span>Giochi</span></a>
+        </li>
+        <li><a href="./gruppi.html" class="nav-link">
+          <img class="nav-icona" src="./assets/icone/ico3.png"/><span>Gruppi</span></a>
+        </li>
+        <li><a href="./metodi.html" class="nav-link">
+          <img class="nav-icona" src="./assets/icone/ico4.png"/><span>Metodi</span></a>
+        </li>
+      </ul>
+    </nav>
+    <svg class="disegno-navbar" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 1440 222" width="1440" height="222">
+      <path d="M737 212C549.5 212 290 150.396 128 162C-34 173.604 -148.5 210.914 -217 188.534C-285.5 166.155 -244 -22 -244 -22L1633.5 -18.2701C1633.5 -18.2701 1810 179.831 1724.5 188.534C1639 197.237 1475.5 184.118 1334 175C1192.5 165.882 924.5 212 737 212Z" fill="#393552" stroke="#232136" stroke-width="20"/>
+    </svg>
+  </header>
+
+  <!-- BOTTONE TORNA SU -->
+  <button class="pulsante-torna-sopra" id="backToTop">↑</button>
+
+  <!-- ═══════════════════════════════════ timeline ═══ -->
+    <section class="sezione-scura">
+
+      <div class="cont-tit-sezione-scura sezione-importante tit-timeline">
+        <h2 class="titolo-sezione ">Timeline</h2>
+        <a href="./timeline.html" class="freccia-sezione">
+          <svg class="freccia-svg" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+            <path d="M36 32L44 24L36 16M44 24H4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </a>
+      </div>
+
+      <div class="timeline-container">
+        <div class="timeline-articoli-linea">
+          <div class="timeline-linea"></div>
+          <div class="timeline-articoli active" data-index="0">
+            <div class="timeline-punto"></div>
+            <div class="timeline-articolo">
+              <a href="./articolo1.html" class="timeline-tit-articolo">Subnautica 2 leakato pochi giorni prima del rilascio</a>
+              <a class="timeline-data">12/05/26</a>
+            </div>
+          </div>
+
+          <div class="timeline-articoli" data-index="1">
+            <div class="timeline-punto"></div>
+            <div class="timeline-articolo">
+              <a href="./articolo2.html" class="timeline-tit-articolo">Forza Horizon 6 leakato, grande colpo alle intoccabili informazioni di Microsoft</a>
+              <span class="timeline-data">11/05/26</span>
+            </div>
+          </div>
+
+          <div class="timeline-articoli" data-index="2">
+            <div class="timeline-punto"></div>
+            <div class="timeline-articolo">
+              <a href="./articolo3.html" class="timeline-tit-articolo">I pirati vincono, dopo decenni Denuvo ha perso, ogni gioco è ora bypassato</a>
+              <span class="timeline-data">26/04/26</span>
+            </div>
+          </div>
+        </div>
+        <div class="timeline-container-img">
+          <a href="./articolo1.html">
+            <div class="timeline-voce active" data-index="0">
+              <img src="https://placehold.co/520x320/1e1830/9990bb?text=Subnautica+2" alt="Subnautica 2 leaked" />
+              <div class="tmL-categoria cat-leak">LEAKED</div>
+            </div>
+          </a>
+          <a href="./articolo2.html">
+            <div class="timeline-voce" data-index="1">
+              <img src="https://placehold.co/520x320/1e1830/9990bb?text=Forza+Horizon+6" alt="Forza Horizon 6 leaked" />
+              <div class="tmL-categoria cat-leak">LEAKED</div>
+            </div>
+          </a>
+          <a href="./articolo3.html">
+            <div class="timeline-voce" data-index="2">
+              <img src="https://placehold.co/520x320/1e1830/9990bb?text=Denuvo+defeated" alt="Denuvo bypassed" />
+              <div class="tmL-categoria cat-speciali">SPECIAL</div>
+            </div>
+          </a>
+        </div>
+      </div>
+
+    </section>
+
+    <!-- ═══════════════════════════════════ NUOVI RILASCI ═══ -->
+  <div class="sezione-con-svg">
+    <svg class="disegno-rilasci-sopra" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" width="1440" height="100" viewBox="0 0 1440 100" fill="none">
+      <path d="M236.798 23.5C153.298 17 -16.7016 20.5 -102.702 71.5C-188.702 122.5 -113.702 253.5 -113.702 253.5L1568.8 306C1568.8 306 1612.3 97.5 1555.3 71.5C1498.3 45.5 1372.3 10.0001 1225.3 10C1078.3 9.99988 736.299 74.5001 628.798 71.5C521.298 68.4999 320.298 30 236.798 23.5Z" fill="#393552" stroke="#232136" stroke-width="20"/>
+    </svg>
+      <section class="sezione-chiara " id="giochi">
+        <div class="cont-tit-sezione-chiara">
+          <h2 class="titolo-sezione">Nuovi rilasci</h2>
+          <a href="./giochi.html" class="freccia-sezione">
+            <svg class="freccia-svg" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+              <path d="M36 32L44 24L36 16M44 24H4" stroke="#9CCFD8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </a>
+        </div>
+        <div class="rilasci-container" id="contenitore-rilasci">
+          <!-- Generato da script.js -->
+        </div>
+      </section>
+      <svg class="disegno-rilasci-sotto" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" width="1440" height="300" viewBox="0 0 1440 300" fill="none">
+        <path d="M643 247.519C455.5 247.519 276 289.764 145.5 289.764C15.0001 289.764 -139 229.519 -209 281.89C-279 334.26 -259.5 10.0187 -259.5 10.0187L1618 13.7486C1618 13.7486 1612.5 395.966 1545 309.242C1477.5 222.519 1383.5 281.89 1162 281.89C940.5 281.89 830.5 247.519 643 247.519Z" fill="#393552" stroke="#232136" stroke-width="20"/>
+      </svg>
+  </div>
+
+    <!-- ═══════════════════════════════════ GRUPPI ═══ -->
+    <section class="sezione-scura" id="gruppi">
+      <div class="cont-tit-sezione-scura">
+        <h2 class="titolo-sezione">Gruppi della scena</h2>
+        <a href="./gruppi.html" class="freccia-sezione">
+          <svg class="freccia-svg" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+            <path d="M36 32L44 24L36 16M44 24H4" stroke="#9CCFD8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </a>
+      </div>
+      <div class="gruppi-container">
+        <div class="gruppi-container-lista">
+          <div class="gruppi-linea"></div>
+          <ul class="gruppi-lista">
+            <li class="gruppo-voce attivo" data-gruppo="CDX"><span class="gruppo-punto"></span>CDX</li>
+            <li class="gruppo-voce" data-gruppo="CPY"><span class="gruppo-punto"></span>CPY</li>
+            <li class="gruppo-voce" data-gruppo="DenuvOwO"><span class="gruppo-punto"></span>DenuvOwO</li>
+            <li class="gruppo-voce" data-gruppo="FLT"><span class="gruppo-punto"></span>FLT</li>
+            <li class="gruppo-voce" data-gruppo="MKDEV"><span class="gruppo-punto"></span>MKDEV</li>
+            <li class="gruppo-voce" data-gruppo="RZR"><span class="gruppo-punto"></span>RZR</li>
+            <li class="gruppo-voce" data-gruppo="RLD"><span class="gruppo-punto"></span>RLD!</li>
+          </ul>
+        </div>
+        <div class="gruppi-container-logo">
+          <div class="gruppi-logo">
+            <img src="https://placehold.co/460x280/0e0c1a/f2f0ff?text=CDX" alt="Logo gruppo" id="gruppo-logo" />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══════════════════════════════════ METODI ═══ -->
+    <section class="sezione-scura" id="metodi">
+      <div class="cont-tit-sezione-scura">
+        <h2 class="titolo-sezione">Metodi della scena</h2>
+        <a href="./metodi.html" class="freccia-sezione">
+          <svg class="freccia-svg" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+            <path d="M36 32L44 24L36 16M44 24H4" stroke="#9CCFD8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </a>
+      </div>
+      <div class="metodi-container">
+        <div class="metodo-card">
+          <img src="./assets/Home/Metodi2.png" alt="Metodi visualizzazione" />
+        </div>
+        <div class="metodo-card metodo-card-txt">
+          <h3 class="metodo-tit">Un mondo in evoluzione</h3>
+          <p class="metodo-testo">
+            La pirateria videoludica si evolve pian piano alle tecnologie e, ovviamente, alle difese anti-pirateria.
+            Quest'ultime risultano sempre più invadenti, dall'impatto sulle performance alla richiesta costante di connessione.
+            I diversi metodi nascono proprio al fine di rompere queste limitazioni, che sia per fine illecito o per particolare etica web.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ═══════════════════════════════════ NEWSLETTER ═══ -->
+  <section class="sezione-con-svg">
+    <svg class="disegno-newsletter" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" width="1440" height="288" viewBox="0 0 1440 288" fill="none">
+      <path d="M182 42.4999C54 42.4999 -99.5 4.49992 -185.5 55.4999C-271.5 106.5 -113 224.5 -113 224.5L1569.5 277C1569.5 277 1612 52.9999 1555 26.9999C1498 0.999926 1363 65 1216 64.9999C1069 64.9998 822.5 9.99995 658.5 10C494.5 10.0001 310 42.4999 182 42.4999Z" fill="#393552" stroke="#232136" stroke-width="20"/>
+    </svg>
+    <section class="sezione-chiara sezione-news">
+      <section class="news-container">
+        <div class="pnl-img">
+          <img src="./assets/Home/newsLunga.png">
+        </div>
+        <div class="news-contenuto">
+          <h2 class="newsletter-tit">RIMANI AGGIORNATO</h2>
+          <p class="newsletter-testo">Breaking-news, nuovi gruppi nella scena o articoli storici, niente spam</p>
+          <div class="newsletter-form">
+            <input type="email" placeholder="inserisci e-mail" class="newsletter-input" aria-label="Inserisci la tua email" />
+            <button class="newsletter-btn">
+              <svg class="freccia-svg-form" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+                <path d="M36 32L44 24L36 16M44 24H4" stroke="#393552" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </button>
+          </div>
+        </div>
+      </section>
+    </section>
+  </section>
+
+    <!-- ═══════════════════════════════════ FOOTER ═══ -->
+  <section class="sezione-con-svg">
+    <svg class="disegno-footbar" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" width="1439" height="269" viewBox="0 0 1439 269" fill="none">
+      <path d="M194.5 20.7366C89 20.7366 0 61.2366 0 61.2366V268.737H1439V61.2366C1439 61.2366 1153 3.73658 988.5 0.236581C824 -3.26342 657 33.2366 525 32.7366C393 32.2366 300 20.7366 194.5 20.7366Z" fill="#1A1825"/>
+    </svg>
+    <footer class="footer">
+      <div class="footer-sx">
+        <div class="footer-logo">
+          <span>Warez Time</span>
+        </div>
+        <p class="footer-contatti">E-mail: thehoneverything@gmail.com</p>
+        <p class="footer-contatti">Tel: +39 366 964 2587</p>
+      </div>
+        <img  class="footer-pittogramma" src="./assets/icone/logo.png"/>
+      <div class="footer-dx">
+        <a href="https://www.instagram.com/" class="footer-social">
+          <svg width="44" height="44" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg>
+        </a>
+        <a href="https://bsky.app/" class="footer-social">
+          <svg width="44" height="44" viewBox="0 0 24 24" fill="currentColor"><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.504 6.479.658 4.215 3.925 5.502 6.747 5.183-.041.01-.083.018-.124.025C4.102 15.887 1.271 18.415 4.9 20.519c3.421 1.972 5.289-1.437 6.577-3.923.539-1.03.867-1.829 1.02-2.227.152.398.48 1.198 1.02 2.227 1.288 2.486 3.156 5.895 6.577 3.923 3.629-2.104.798-4.632-2.124-5.064a5.716 5.716 0 0 1-.124-.025c2.822.319 6.09-.968 6.747-5.183C24.628 9.418 25 4.458 25 3.768c0-.688-.139-1.86-.902-2.203-.659-.299-1.664-.621-4.3 1.24C17.046 4.747 14.087 8.686 12 10.8z"/></svg>
+        </a>
+        <a href="https://x.com" class="footer-social">
+          <svg width="44" height="44" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.73-8.835L1.254 2.25H8.08l4.259 5.631 5.905-5.631Zm-1.161 17.52h1.833L7.084 4.126H5.117Z"/></svg>
+        </a>
+      </div>
+    </footer>
+  </section>
+  <script src="./js/script.js"></script>
+</body>
+</html>
