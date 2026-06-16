@@ -1,90 +1,90 @@
 [
   {
-    "cover": "../assets/Gruppi/CODEX.png",
+    "cover": "./assets/Gruppi/CODEX.png",
     "title": "CODEX (CDX)",
     "attivo": false,
     "testo": "Silenzioso gruppo nato nel 2014 per combattere gli allora dominanti RELOADED. Divenne presto uno dei gruppi simbolo della scena tanto per il loro modus operandi, efficace quanto tradizionale, quanto per la loro trasversalità, attaccando ogni tipo di protezione, da launchers a enti terzi. Il 2022 segna la data del loro ritiro per mancanza di competizione, scelta da intendere come vittoria del gruppo nella scena, seppur a livello di storia della pirateria questo evento portò a una sentita depressione. Si contano circa 7300 rilasci sotto il loro nome."
   },
   {
-    "cover": "../assets/Gruppi/CPY.png",
+    "cover": "./assets/Gruppi/CPY.png",
     "title": "CONSPIR4CY (CPY)",
     "attivo": false,
     "testo": "Probabilmente il gruppo che più di tutti ha impattato la recente storia sulla pirateria videoludica, con un focolaio divampato tra il 2016 e il 2018, dividendo il periodo RELOADED/REVOLUT da CODEX/EMPRESS, i CPY dimostrarono che non solo Denuvo, la maggiore protezione anti-pirateria mai realizzata, era battibile, me era possibile farlo pure velocemente.La loro efficienza inaudita unito al silenzio stampa fece di loro una delle più grandi leggende della scena, imprimendo nei media un’immagine di Denuvo e della scena che ha plasmato il nostro presente."
   },
   {
-    "cover": "../assets/Gruppi/DenuvOwO.png",
+    "cover": "./assets/Gruppi/DenuvOwO.png",
     "title": "DenuOwO",
     "attivo": true,
     "testo": "Gruppo nato dopo la diffusione del metodo Hypervisor da parte di MKDEV. Dopo mesi di acque tranquille lasciate da EMPRESS, e con discussioni sulle crack di alto livello ormai circondati i nuovi Voices38 e sporadiche operazioni, DenuvOwO si sono imposti come pionieri e maestri di un metodo che ha permesso di ripulire la lista di giochi mai crackati. Con loro, dopo anni, sono ritornare le crack zero-day."
   },
   {
-    "cover": "../assets/Gruppi/empress.png",
+    "cover": "./assets/Gruppi/empress.png",
     "title": "EMPRESS",
     "attivo": false,
     "testo": "Una delle personalità più estrose e furiose della scena. Diffusasi sotto quest’alias la presunta singola individua donna, Empress fu capace di piegare ai suoi piedi Denuvo dal periodo post-codex al pre-Hypervisor (2020-2025). Personalità pubblica a sostegno di un mercato libero, privo di copyright, e senza alcuna censura, ideologia resa ovvia nei suoi vari NFO e nelle sue interazioni con la community sempre accese. Dopo anni di avanzamenti tecnologici, Empress è riuscita a ridimensionare l’opinione pubblica su Denuvo, il suo ritiro indica la fine di una grande era."
   },
   {
-    "cover": "../assets/Gruppi/Fairlight FLT.png",
+    "cover": "./assets/Gruppi/Fairlight FLT.png",
     "title": "Fairlight (FLT)",
     "attivo": true,
     "testo": "Nome nato nel 1987 in Svezia, inizialmente attivo nella demoscene del Commodore dove iniziarono anche le prime crack del gruppo, prima di passare ad Amiga, Super NES e poi Pc. Il gruppo fu preso d’assalto nel 2004 dall’operazione internazionale Operation Fastlink, dove la divisione americana sequestrò un server con 65.000 giochi, si sostiene fosse il loro archivio. Dal 2001 il loro nome appare in maniera costante su diversi rilasci pure di rilevo, seppur si ritenga che dietro di esso ci siano utenti appartenenti a diversi gruppi ora inattivi."
   },
   {
-    "cover": "../assets/Gruppi/mkdev.png",
+    "cover": "./assets/Gruppi/mkdev.png",
     "title": "MKDEV",
     "attivo": false,
     "testo": "Nati a metà anni 2010, il gruppo divenne dapprima famoso per le discussioni tecniche sui temi della scena attraverso il loro sito nel 2016. Da inizio 2020 la loro figura prese una svolta quasi ironica, ruotando per svariati anni attorno alla serie Football Manager, fino al loro ritiro nel 2023 con una crack di più grande spessore. Il loro nome ritornò al centro delle discussioni quando a fine 2025 rilasciarono e dimostrarono una crack utilizzante il nuovo metodo Hypervisor da loro congeniato che nei mesi successivi avrebbe stravolto la scena."
   },
   {
-    "cover": "../assets/Gruppi/Plaza.png",
+    "cover": "./assets/Gruppi/Plaza.png",
     "title": "Plaza",
     "attivo": false,
     "testo": "Gruppo sussidiario di Codex che operò durante la medesima era (2014-2022) accumulando sotto il nome circa 5300 rilasci. La loro relazione con Codex fu resa chiara solo durante il tramonto di entrambi i gruppi, nei loro comunicati di addio. Durante il periodo di attività il gruppo si è concentrato su rilasci minori e aggiornamenti, mentre il principale Codex si muoveva su protezioni più ostiche. Il loro nome è stato reso grande dall’ultima crack posta come regalo alla community per il supporto, crackando Elden Ring al giorno zero."
   },
   {
-    "cover": "../assets/Gruppi/Razor 1911.png",
+    "cover": "./assets/Gruppi/Razor 1911.png",
     "title": "Razor 1911 (RZR)",
     "attivo": true,
     "testo": "Gruppo old-school e tra i più longevi ancora in attività. Nasce nel 1985 in Norvegia e inizialmente opera sul Commodore 64, con occasionali rilasci per Amiga e i PC IBM. Il gruppo è stato soggetto a raid di diverse operazioni, quali Operation Buccaneer e Operation Fastlink. La loro attività è stata fortemente legata alla demoscene (attraverso la quale hanno pure festeggiato quarantesimo anniversario). Negli anni si sono susseguite decine di membri e, seppur i fondatori non siano più attivi nella scena, l’identità di RZR rimane solida."
   },
   {
-    "cover": "../assets/Gruppi/Reloaded RLD!.png",
+    "cover": "./assets/Gruppi/Reloaded RLD!.png",
     "title": "Reloaded (RLD!)",
     "attivo": false,
     "testo": "La storia di Reloaded divide l’era del fisico, CD/DVD, dall’era del digitale, degli store, dei nuovi gruppi e metodologie di crack. Seppur il gruppo operasse in maniera classica, il loro nome è stato più volte al centro delle discussioni sulla scena. Ipotesi sulla loro nascita, vociferata come derivante da membri dei DEViANCE (uno dei gruppi maggiori pre-codex) andavano di pari passo con le loro abilità tecniche, e la potenza del loro nome è quel che ha spinto alla nascita di CODEX in diretta competizione con loro."
   },
   {
-    "cover": "../assets/Gruppi/Revolt RVL.png",
+    "cover": "./assets/Gruppi/Revolt RVL.png",
     "title": "Revolt (RVL)",
     "attivo": false,
     "testo": "Gruppo nato e morto insieme alla figura di Voksi, suo diretto creatore, emerso a metà anni 2010 e catturato dalla polizia Bulgara a luglio 2018 per aver diffuso video sensibili su youtube. A questo nome sono legati rilasci piuttosto importanti, da giochi con funzionalità multiplayer a titoli protetti da varie versioni di Denuvo. Con la cattura di Voksi si è chiuso un grande capitolo della scena, dall’impatto mediatico così elevato da far emergere questi nomi in eventi anche recenti, come nel drama da SKIDROW  e EMPRESS del 2023."
   },
   {
-    "cover": "../assets/Gruppi/Rune.png",
+    "cover": "./assets/Gruppi/Rune.png",
     "title": "RUNE",
     "attivo": true,
     "testo": "Entrati nella scena dopo il tramonto di CODEX, il nome RUNE si è fatto sempre più grande con una costante scia di rilasci che, seppur non vantavano protezioni all’avanguardia, erano però circondati da grande hype pubblico, come Baldur’s Gate 3. Seppur la quantità sia il punto forte del gruppo, si possono citare esempi di elevate competenze tecniche, come rilasci di fine 2025 di titoli protetti da vecchie versioni di denuvo o protezioni speciali."
   },
   {
-    "cover": "../assets/Gruppi/Skidrow.png",
+    "cover": "./assets/Gruppi/Skidrow.png",
     "title": "SKiDROW",
     "attivo": true,
     "testo": "Gruppo che ha operato per pochi anni dal 1990 sulle piattaforme amiga per poi ritornare nel 2007 sul mondo digitale del PC. La loro attività è contrassegnata da diversi momenti di drama specialmente tecnici, in cui il modus operandi di molti gruppi,  dal nome anche più rilevante, venivano criticati pesantemente, con risposte da parte di essi altrettanto provocatorie. Il gruppo opera maggiormente su protezioni minori con poche eccezioni."
   },
   {
-    "cover": "../assets/Gruppi/SteamPunks.png",
+    "cover": "./assets/Gruppi/SteamPunks.png",
     "title": "SteamPunks (STP)",
     "attivo": false,
     "testo": "Una breve quanto tempestiva carriera caratterizza questo nome durato neanche un anno nella scena. Il loro intervento è stato di altissimo volume, rilasciando una grande varietà di giochi protetti arduamente in tempi piuttosto stretti, con loro si contano i primi rilasci zero-day di titoli protetti da Denuvo. Il peculiare modus operandi del gruppo sfruttava keygens per cenerari licenze identiche a quelle ufficialmente rilasciate per i titoli in questione. La loro attività si è chiusa con una collaborazione con il gruppo CODEX, sotto il nome di CODEPUNKS."
   },
   {
-    "cover": "../assets/Gruppi/Tenoke.png",
+    "cover": "./assets/Gruppi/Tenoke.png",
     "title": "Tenoke",
     "attivo": true,
     "testo": "Nome diffusissimo ma dal relativamente basso impatto mediatico. Il gruppo è entrato in attività da dopo chiusura delle operazioni di CODEX e sin da subito ha colmato il vuoto di volume che quest’ultimo ha lasciato. Di fatti, tra i rilasci di Tenoke, si contano tutti titoli piccoli o medi, da protezioni non eccelse, ma la loro costanza e dedizione alla scena, con il vastissimo parco titoli trattato e aggiornato dai loro rilasci, ha nel tempo costruito un’identità solida legata al nome."
   },
   {
-    "cover": "../assets/Gruppi/voices38.png",
+    "cover": "./assets/Gruppi/voices38.png",
     "title": "Voices38",
     "attivo": true,
     "testo": "Apparso a fine 2025 Voices38 si è da subito presentato come una personalità del tutto affine a quella di EMPRESS. Seppur le sue interazioni siano caratterizzate da messaggi meno aggressivi, il suo diretto contatto con la superfice della scena, così come frequenza di rilasci, complessità tecnica e affinità ai metodi old-school (nonostante il recente Hypervisor) stanno contribuendo a rendere il nome di Voices38 una leggenda del tutto paragonabile ai grandi gruppi della storia."
