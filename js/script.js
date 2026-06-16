@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     async function buildReleases() {
       // 1. Carica il file di configurazione
-      const res = await fetch('../assets/pill/listaGiochi.json');
+      const res = await fetch('./assets/pill/listaGiochi.json');
       const games = await res.json();
       // games = [{ id: 0, label: "D +1023" }, ...]
 
@@ -238,7 +238,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const list    = document.getElementById('giochi-container');
     const status  = document.getElementById('status');
 
-    fetch('../assets/Header/listaGiochiHeader.json')
+    fetch('./assets/Header/listaGiochiHeader.json')
         .then(res => {
           if (!res.ok) throw new Error(`HTTP ${res.status}`);
           return res.json();
@@ -322,7 +322,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const list   = document.getElementById('gruppi-grande-container');
     const status = document.getElementById('status');
 
-    fetch('../assets/Gruppi/listaGruppi.json')
+    fetch('./assets/Gruppi/listaGruppi.json')
         .then(res => {
           if (!res.ok) throw new Error(`HTTP ${res.status}`);
           return res.json();
