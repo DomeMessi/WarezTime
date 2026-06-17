@@ -1054,6 +1054,7 @@ body {
   margin: 2vw 0 2% 30px;
   font-size: 30px;
   font-weight: bold;
+  padding-bottom: 4%;
 }
 
 .pnlGruppo-testo {
@@ -1526,6 +1527,10 @@ body {
     max-width: 500px;
   }
 
+  .titolo-sezione {
+    margin-bottom: 4%;
+  }
+
   .timeline-container {
     display: flex;
     flex-direction: column;
@@ -1647,7 +1652,21 @@ body {
   }
 
   .pnlGruppo-body {
-    grid-template-rows: 1fr 3fr 1fr;
+    display: flex;
+    flex-direction: column;
+    padding: 15px 0 15px 0;
+  }
+
+  .pnlGruppo-titolo {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    font-size: 24px;
+    padding-bottom: 3%;
+  }
+
+  .pnlGruppo-testo {
+    padding-bottom: 4%;
   }
 
   #metodi-grande-container {
