@@ -83,10 +83,6 @@ body {
   max-width: 2000px;
 }
 
-.centra-titolo {
-  justify-content: center;
-}
-
 .sezione-chiara{
   background: var(--viol3);
   max-width: 100%;
